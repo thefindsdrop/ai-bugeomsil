@@ -1,0 +1,47 @@
+:root{--paper:#f1ece2;--card:#faf7f1;--ink:#1b1b1f;--gray:#5d584e;--soft:#8a8478;--rule:#d8d1c3;--red:#c8102e;--code:#e8e2d5;--onred:#fff}
+@media (prefers-color-scheme:dark){:root{--paper:#141316;--card:#1c1b1f;--ink:#ece8df;--gray:#b1ab9f;--soft:#8a8478;--rule:#33302b;--red:#ff4d61;--code:#222026;--onred:#141316}}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--paper);color:var(--ink);font-family:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  font-size:16px;line-height:1.65;word-break:keep-all;overflow-wrap:break-word;padding-inline:16px}
+a{color:inherit}
+.wrap{max-width:680px;margin:0 auto;padding-block:40px 64px}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.22em;color:var(--soft)}
+.logo{font-family:"Noto Serif KR",serif;font-weight:900;font-size:clamp(30px,7vw,40px);letter-spacing:-.01em;line-height:1.2;margin-top:8px}
+.logo a{text-decoration:none}
+.redline{width:40px;height:3px;background:var(--red);margin:16px 0}
+.lead{color:var(--gray);font-size:15px}
+.chan{display:inline-block;margin-top:16px;font-size:14px;font-weight:700;text-decoration:none;border-bottom:2px solid var(--red);padding-bottom:2px}
+.list{list-style:none;margin-top:40px;display:grid;gap:16px}
+.item a{display:grid;grid-template-columns:72px 1fr;gap:16px;align-items:start;text-decoration:none;background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:16px}
+.item a:hover,.item a:focus-visible{border-color:var(--ink)}
+.item img{width:72px;height:128px;object-fit:cover;border-radius:8px;background:var(--code);display:block}
+.meta{font-size:12px;font-weight:600;color:var(--soft);letter-spacing:.04em}
+.item h2{font-size:17px;line-height:1.45;font-weight:800;margin-top:4px;text-wrap:balance}
+.item p{font-size:14px;color:var(--gray);margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.back{font-size:14px;font-weight:700;text-decoration:none;color:var(--gray)}
+.ep h1{font-size:clamp(22px,5.4vw,28px);line-height:1.4;font-weight:800;margin-top:8px;text-wrap:balance}
+.hero{display:grid;grid-template-columns:120px 1fr;gap:16px;align-items:end;margin-top:24px}
+.hero img{width:120px;height:213px;object-fit:cover;border-radius:10px;border:1px solid var(--rule);display:block}
+.btn{display:inline-block;background:var(--red);color:var(--onred);font-weight:800;font-size:15px;text-decoration:none;border-radius:999px;padding:10px 20px}
+.summary{margin-top:24px;font-size:16px}
+.sec{margin-top:32px}
+.sec h3{font-size:13px;font-weight:800;letter-spacing:.08em;color:var(--soft);margin-bottom:8px}
+.sec p{white-space:pre-line}
+.sec p strong{font-weight:800}
+.sec ol{padding-left:22px;display:grid;gap:4px}
+.sec .after{margin-top:8px;color:var(--gray);font-size:15px}
+.prompt{background:var(--card);border:1px solid var(--rule);border-radius:12px;overflow:hidden}
+.ph{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 8px 8px 16px;border-bottom:1px solid var(--rule)}
+.ph h3{margin:0}
+.copy{font:inherit;font-size:14px;font-weight:800;border:0;border-radius:999px;padding:8px 16px;background:var(--ink);color:var(--paper);cursor:pointer;min-width:72px}
+.copy.ok{background:var(--red);color:var(--onred)}
+.copy:focus-visible,.btn:focus-visible,.item a:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+pre{margin:0;padding:16px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Pretendard Variable",monospace;font-size:13.5px;line-height:1.6;white-space:pre-wrap;word-break:break-word;max-height:420px;overflow:auto;background:var(--code)}
+.links{list-style:none;display:grid;gap:8px}
+.links li{font-size:15px}
+.links b{font-weight:800;margin-right:6px}
+.links a{text-decoration:none;border-bottom:1px solid var(--rule);word-break:break-all}
+footer{margin-top:56px;padding-top:16px;border-top:1px solid var(--rule);font-size:13px;color:var(--soft)}
+@media (max-width:420px){.hero{grid-template-columns:96px 1fr}.hero img{width:96px;height:171px}}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
