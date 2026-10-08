@@ -6,6 +6,7 @@
 
 | 편 | 제목 | 게시일 |
 |---|---|---|
+| S10 | [요즘 유행하는 챗GPT 사진 코드, 단어 하나로 찍기](https://thefindsdrop.github.io/ai-bugeomsil/s10/) · [영상](https://youtube.com/shorts/B7ZtsvMVoKQ) | 2026-10-09 |
 | S08 | [요즘 트렌디한 사람들은 다 쓴다는 클로드 프롬프트, UI 애니메이션 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s08/) · [영상](https://youtube.com/shorts/vKRb4I00cXk) | 2026-10-08 |
 | S13 | [요즘 유행하는 댄스 영상, 내 얼굴로 바꾸기](https://thefindsdrop.github.io/ai-bugeomsil/s13/) · [영상](https://youtube.com/shorts/NS5vCtfM3IQ) | 2026-10-08 |
 | S11 | [요즘 유행하는 영상 효과, 챗GPT로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s11/) · [영상](https://youtube.com/shorts/PL4ioafLrMs) | 2026-10-08 |
