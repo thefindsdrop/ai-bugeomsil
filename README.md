@@ -6,6 +6,7 @@
 
 | 편 | 제목 | 게시일 |
 |---|---|---|
+| S28 | [힉스필드 영상 10초에 얼마일까, 결제 전 함정 3가지](https://thefindsdrop.github.io/ai-bugeomsil/s28/) · [영상](https://youtube.com/shorts/9kcFxgvrcJA) | 2026-10-13 |
 | S23 | [글자가 사람 뒤로 지나가는 영상, 클로드 코드로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s23/) · [영상](https://youtube.com/shorts/IXtt_kgpzNI) | 2026-10-13 |
 | S10 | [요즘 유행하는 챗GPT 사진 코드, 단어 하나로 찍기](https://thefindsdrop.github.io/ai-bugeomsil/s10/) · [영상](https://youtube.com/shorts/B7ZtsvMVoKQ) | 2026-10-09 |
 | S08 | [요즘 트렌디한 사람들은 다 쓴다는 클로드 프롬프트, UI 애니메이션 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s08/) · [영상](https://youtube.com/shorts/vKRb4I00cXk) | 2026-10-08 |
