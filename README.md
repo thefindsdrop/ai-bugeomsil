@@ -6,6 +6,11 @@
 
 | 편 | 제목 | 게시일 |
 |---|---|---|
+| S57 | [강아지들이 해변에서 춤추는 AI 영상, 우리 집 강아지로 무료로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s57/) · [영상](https://youtube.com/shorts/https://youtube.com/shorts/4yO3bZ67RoU) | 2026-10-20 |
+| S30 | [엘리베이터 문 닫힐 때마다 옷 바뀌는 영상, 무료 AI로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s30/) · [영상](https://youtube.com/shorts/https://youtube.com/shorts/40uHh6rfKsU) | 2026-10-17 |
+| S31 | [드라이브스루 아기 알바생 영상, 무료 AI로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s31/) · [영상](https://youtube.com/shorts/https://youtube.com/shorts/_SSfHp2LySU) | 2026-10-17 |
+| S34 | [광안리 밤바다 3D 카트 게임, 클로드 코드로 1시간 만에 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s34/) · [영상](https://youtube.com/shorts/https://youtube.com/shorts/9Mbnt43LDZc) | 2026-10-17 |
+| S37 | [아기들이 걸그룹 춤 추는 영상, 무료 AI로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s37/) · [영상](https://youtube.com/shorts/https://youtube.com/shorts/hq0zy3QmV1I) | 2026-10-17 |
 | S28 | [힉스필드 영상 10초에 얼마일까, 결제 전 함정 3가지](https://thefindsdrop.github.io/ai-bugeomsil/s28/) · [영상](https://youtube.com/shorts/9kcFxgvrcJA) | 2026-10-13 |
 | S23 | [글자가 사람 뒤로 지나가는 영상, 클로드 코드로 만들기](https://thefindsdrop.github.io/ai-bugeomsil/s23/) · [영상](https://youtube.com/shorts/IXtt_kgpzNI) | 2026-10-13 |
 | S10 | [요즘 유행하는 챗GPT 사진 코드, 단어 하나로 찍기](https://thefindsdrop.github.io/ai-bugeomsil/s10/) · [영상](https://youtube.com/shorts/B7ZtsvMVoKQ) | 2026-10-09 |
